@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "dataset",
+      "script": "app.js",
+      "watch": "/",
+      "exec_mode": "cluster",
+      "instance": 1
+    }
+  ]
+}
